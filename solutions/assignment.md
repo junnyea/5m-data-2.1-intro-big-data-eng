@@ -68,14 +68,14 @@ pipeline = [
    stage_match_with_comments,
    stage_count_movies,
 ]
-results = movies.aggregate(pipeline)
+results = movies_collection.aggregate(pipeline)
 count = list(results)[0]['number_movies_with_3_comments_or_more']
 
 ```
 
 Alternative Answer:
 ```python
-count = collection.count_documents({"num_mflix_comments": {"$gte": 3}})
+count = movies_collection.count_documents({"num_mflix_comments": {"$gte": 3}})
 ```
 
 ## Submission
