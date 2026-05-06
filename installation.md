@@ -66,7 +66,7 @@ For lesson 2.2, you will need to setup user accounts on Redis and Google Cloud P
 
 If you encounter further issues or you want to know more about GCP, you can check out the following video:
 
-- [Video guide on basics of Google Cloud Platform (GCP)](https://drive.google.com/file/d/1MNTTvuK-nFuWxUy4AHLvUtn24Oof93a2/view?usp=drive_link)
+- [Video guide on Google Cloud Platform (GCP) setup with Payment](https://drive.google.com/file/d/1I5pkmk2seYfZN1JRgTHYQeiuQ2rsXsE0/view?usp=sharing)
 - [Video guide on fixing service account key issue](https://drive.google.com/file/d/104oQPv5-DNWPe28gXGj1pbin9yilbGVX/view?usp=drive_link)
 
 ## Preparation for Lesson 2.3
